@@ -1,5 +1,14 @@
 {
   "store": "Nexo Store",
   "version": 1,
-  "games": []
+  "games": [
+    {
+      "id": 1,
+      "name": "Battletoads",
+      "system": "nes",
+      "filename": "Battletoads.nes",
+      "cover": "orig.jpg",
+      "size_mb": 0.12
+    }
+  ]
 }
